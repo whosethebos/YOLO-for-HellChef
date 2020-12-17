@@ -12,3 +12,5 @@ We train the model using the custom dataset of fruits and vegetables. The ready 
 * Run the code one by one
 * As files are present in the google drive they will be copied and the YOLO starts training
 * The trained weights are stored in Backup file where we use to test the network
+
+<br/>[References](https://youtu.be/_FNfRtXEbr4)
